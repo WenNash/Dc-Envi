@@ -1,0 +1,14 @@
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect_Enviroment.Form1.resources
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect_Enviroment.Form2.resources
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect_Enviroment.DataMhs.resources
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect_Enviroment.Form4.resources
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect_Enviroment.Properties.Resources.resources
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect Enviroment.csproj.GenerateResource.cache
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect Enviroment.csproj.CoreCompileInputs.cache
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\bin\Debug\Disconnect Enviroment.exe.config
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\bin\Debug\Disconnect Enviroment.exe
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\bin\Debug\Disconnect Enviroment.pdb
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect Enviroment.exe
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect Enviroment.pdb
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect Enviroment.csproj.AssemblyReference.cache
+D:\File Campus\Tugas Kampus\Semester 4\Pengembangan Aplikasi Basis Data\Disconnect Enviroment\Disconnect Enviroment\obj\Debug\Disconnect Enviroment.csproj.SuggestedBindingRedirects.cache

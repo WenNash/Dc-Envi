@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disconnect Enviroment", "Disconnect Enviroment\Disconnect Enviroment.csproj", "{6F9E865B-AC15-47E6-AE21-4CAFD4209CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9E865B-AC15-47E6-AE21-4CAFD4209CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9E865B-AC15-47E6-AE21-4CAFD4209CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9E865B-AC15-47E6-AE21-4CAFD4209CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9E865B-AC15-47E6-AE21-4CAFD4209CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C245BF09-C197-46C4-80B2-FD89BC07CF78}
+	EndGlobalSection
+EndGlobal
